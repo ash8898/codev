@@ -1,2 +1,2 @@
 # codev
-Django kakakotalk + instagram project
+Django kakaotalk + instagram project
